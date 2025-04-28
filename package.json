@@ -1,0 +1,13 @@
+{
+    "scripts": {
+      "start": "node src/server.js"
+    },
+  "dependencies": {
+    "express": "^5.1.0",
+    "sequelize": "^6.21.0",
+    "mysql2": "^2.3.3",
+    "dotenv": "^16.0.0",
+    "bcrypt": "^5.0.1",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
